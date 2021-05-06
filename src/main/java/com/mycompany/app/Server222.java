@@ -17,7 +17,7 @@ public class Server2
     private void foo(String p) {
        String s = "aloha";
        System.out.println(String.format("This is a faulty message: %i", s));
-       System.out.format("No %s",1);
+       System.out.format("No %d",1); // Fix another bug instead of one i claim :)
        if ("1" == "2") {
             //dosomething
        }
