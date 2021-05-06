@@ -22,6 +22,8 @@ public class Server3
             //dosomething
             // do nothing here
             int a = 2;
+            int b = 3;
+            int d = 4444;
        }
     }
   
