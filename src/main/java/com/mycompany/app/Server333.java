@@ -17,7 +17,7 @@ public class Server3
     private void foo(String p) {
        String s = "aloha";
        System.out.println(String.format("This is a faulty message: %i", s));
-       System.out.format("No %s",1);
+       System.out.format("No %d",1);
        if ("1" == "2") {
             //dosomething
             // do nothing here
@@ -26,7 +26,7 @@ public class Server3
             int d = 4444;
        }
     }
-  
+
     private void cipher(String s) throws Exception
     {
         Cipher c = Cipher.getInstance(s);
