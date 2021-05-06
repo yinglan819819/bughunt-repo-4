@@ -20,6 +20,8 @@ public class Server3
        System.out.format("No %s",1);
        if ("1" == "2") {
             //dosomething
+            // do nothing here
+            int a = 2;
        }
     }
   
