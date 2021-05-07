@@ -20,6 +20,7 @@ public class Server2
        System.out.format("No %d",1); // Fix another bug instead of one i claim :)
        if ("1" == "2") {
             //dosomething
+            // I do nothing heehehehhheheehh
        }
     }
   
